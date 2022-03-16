@@ -1,4 +1,4 @@
-name: hw4
+name: DRL_v0
 channels:
   - pytorch
   - conda-forge
